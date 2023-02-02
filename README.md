@@ -1,6 +1,4 @@
 ### Hi, I'm Muhammed TURAN 👋
-
-<h1>Frontend Developer</h1>
 <p>I'm a frontend developer!</p>
   
 <p>🌍  I'm based in Kocaeli</p>
